@@ -13,7 +13,7 @@ _This script is written based on my need. you're welcome to modify as per yours.
 
 ### This is how it notifies with the provided filters
 
-<img width="640" alt="Screenshot 2021-05-16 at 6 56 41 PM" src="https://user-images.githubusercontent.com/11074646/118399102-1c7a3080-b679-11eb-85bd-194b5181857b.png">
+<img width="640" alt="Screenshot 2021-05-16 at 6 56 41 PM" src="https://user-images.githubusercontent.com/11074646/118999814-37fe7780-b9a8-11eb-88a2-941fef6fd07a.jpg">
 
 
 ### Steps to run the scheduler job:
